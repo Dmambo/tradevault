@@ -23,7 +23,7 @@ const Navbar = (props: Props) => {
           <UserButton afterSignOutUrl="/" />
         ) : (
           <Link href="/sign-in">
-            <Button>Sign in</Button>
+            <Button>Get Started</Button>
           </Link>
         )}
       </div>
