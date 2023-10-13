@@ -11,13 +11,14 @@ const Mainnav = ({
       name: "About",
       href: "/about",
     },
-    {
-      name: "Contact",
-      href: "/contact",
-    },
+  
     {
       name: "Community",
       href: "/community",
+    },
+    {
+      name: "Contact",
+      href: "/contact",
     },
   ];
 
